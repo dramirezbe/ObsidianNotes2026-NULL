@@ -15,7 +15,7 @@
 
 Markdown
 
-```
+```verilog
 # 4-Bit Multiplier Design
 
 ## Overview
@@ -38,14 +38,13 @@ Given $A = a_3 a_2 a_1 a_0$ and $B = b_3 b_2 b_1 b_0$:
 ```
 
 ---
-
 ## Verilog Implementation
 
 This uses a simple combinational approach for clarity.
 
 Verilog
 
-```
+```verilog
 module multiplier_4bit (
     input [3:0] A,
     input [3:0] B,
@@ -60,9 +59,7 @@ endmodule
 
 ## Testbench
 
-Verilog
-
-```
+```verilog
 module tb_multiplier;
     reg [3:0] A, B;
     wire [7:0] P;
@@ -88,5 +85,4 @@ module tb_multiplier;
     end
 endmodule
 ```
-
 
