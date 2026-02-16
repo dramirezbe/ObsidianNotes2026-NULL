@@ -1,0 +1,1 @@
+# ObsidianNotes2026-NULL
