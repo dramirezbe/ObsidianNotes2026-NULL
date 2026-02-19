@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Base Linear Algebra/Linear Combinations, Span, and Basis Vectors.md",
+                "file": "ML/Base Linear Algebra/Linear Transformations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Combinations, Span, and Basis Vectors"
+              "title": "Linear Transformations"
             }
           }
         ]
@@ -154,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ML/Base Linear Algebra/Linear Transformations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Linear Transformations"
             }
           },
           {
@@ -177,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +195,9 @@
   },
   "active": "5b72424ae21480dc",
   "lastOpenFiles": [
-    "DigitalDesign/4 bit Multiplier.md",
     "ML/Base Linear Algebra/Linear Combinations, Span, and Basis Vectors.md",
+    "ML/Base Linear Algebra/Linear Transformations.md",
+    "DigitalDesign/4 bit Multiplier.md",
     "ML/Base Linear Algebra",
     "DigitalDesign/Endianess.md",
     "Seminary/Untitled.md",
